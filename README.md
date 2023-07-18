@@ -11,7 +11,7 @@ Original: *args.seed = 1;* <br>
 New: *args.seed = -1;*
 
 ### 2) Stopwatch
-Reason: to measure the time correctly <br>
+Reason: to correctly measure compilation times <br>
 File: core/Main.cc <br>
 Line: 20 (added), 136 - 138 (added), 141 - 146 (added)
 
