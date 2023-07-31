@@ -1,7 +1,7 @@
 Authors: Lagniez Jean-Marie
 Date: 2017/07/09
 
-:exclamation:
+> :exclamation:
 # Changes (AAAI-24)
 
 ### 1) Seed
