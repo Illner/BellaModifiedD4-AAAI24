@@ -1,8 +1,7 @@
 Authors: Lagniez Jean-Marie
 Date: 2017/07/09
 
-> :exclamation:
-# Changes (AAAI-24)
+# :exclamation: Changes (AAAI-24)
 
 ### 1) Seed
 Reason: to randomise compilations <br>
