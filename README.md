@@ -3,6 +3,8 @@ Date: 2017/07/09
 
 # :exclamation: Changes (AAAI-24)
 
+The directory contains modifications made for the purpose of the article.
+
 ### 1) Seed
 Reason: to randomise compilations <br>
 File: heuristics/ClauseBipartiteGraphPartitioner.cc <br>
