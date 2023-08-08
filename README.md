@@ -3,7 +3,7 @@ Date: 2017/07/09
 
 # :exclamation: Changes (AAAI-24)
 
-The directory contains the following modifications made for the purpose of the article.
+The directory contains the following modifications made for the purposes of the article.
 
 ### 1) Seed
 Reason: to randomise compilations <br>
