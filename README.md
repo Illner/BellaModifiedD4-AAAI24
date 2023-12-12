@@ -2,7 +2,7 @@ Authors: Lagniez Jean-Marie
 Date: 2017/07/09
 
 # :exclamation: Changes
-## A Compiler for Weak Decomposable Negation Normal Form (AAAI-24)
+A Compiler for Weak Decomposable Negation Normal Form (AAAI-24)
 
 The directory contains the following modifications made for the purposes of the article.
 
