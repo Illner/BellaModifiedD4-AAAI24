@@ -2,9 +2,7 @@ Authors: Lagniez Jean-Marie
 Date: 2017/07/09
 
 # :exclamation: Changes
-Paper: A Compiler for Weak Decomposable Negation Normal Form (AAAI-24)
-
-The directory contains the following modifications made for the purposes of the article.
+The directory contains the following modifications made for the purposes of the paper.
 
 ### 1) Seed
 Reason: to randomise compilations <br>
@@ -17,6 +15,18 @@ New: *args.seed = -1;*
 Reason: to correctly measure compilation times <br>
 File: core/Main.cc <br>
 Line: 20 (added), 136 - 138 (added), 141 - 146 (added)
+
+## Paper
+
+    @inproceedings{illner2024compiler,
+        title     = {A Compiler for Weak Decomposable Negation Normal Form},
+        author    = {Illner, Petr and Ku{\v{c}}era, Petr},
+        booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+        volume    = {38},
+        number    = {9},
+        pages     = {10562--10570},
+        year      = {2024}
+    }
 
 # How to compile
 
