@@ -18,14 +18,17 @@ Line: 20 (added), 136 - 138 (added), 141 - 146 (added)
 
 ## Paper
 
-    @inproceedings{illner2024compiler,
-        title     = {A Compiler for Weak Decomposable Negation Normal Form},
-        author    = {Illner, Petr and Ku{\v{c}}era, Petr},
-        booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-        volume    = {38},
-        number    = {9},
-        pages     = {10562--10570},
-        year      = {2024}
+    @article{Illner_Kucera_2024, 
+        author  = {Illner, Petr and Kučera, Petr}, 
+        title   = {A Compiler for Weak Decomposable Negation Normal Form}, 
+        volume  = {38}, 
+        url     = {https://ojs.aaai.org/index.php/AAAI/article/view/28926}, 
+        DOI     = {10.1609/aaai.v38i9.28926}, 
+        number  = {9}, 
+        journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+        year    = {2024}, 
+        month   = {Mar.}, 
+        pages   = {10562-10570} 
     }
 
 # How to compile
